@@ -10,9 +10,7 @@ def actor{
 end
 
 def monopoly
-	monopoly = {
-  
-  }
+
 
 end
 
