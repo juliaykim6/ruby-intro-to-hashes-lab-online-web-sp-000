@@ -9,7 +9,7 @@ end
 
 def monopoly
 	monopoly = {
-    name = "Dwayne The Rock Johnson"
+    name: "Dwayne The Rock Johnson"
   }
 
 end
